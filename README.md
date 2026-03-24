@@ -79,4 +79,3 @@ e - Encerramento via `System.exit(0)` na opção 4.
 
 ## Autor
 **João Victor**
-in Itaquaquecetuba, São Paulo - Brasil
